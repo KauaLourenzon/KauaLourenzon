@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">Idade: 18 anos,<br>💏 Estado civil: solteiro😔,<br>📚 Escolaridade: Ensino Médio + técnico em informática em Escola Professor Luiz Rosa. Atualmente cursando Sistemas embarcados em Fatec Jundiaí (previsão de término para dezembro de 2025).<br>🖥 Profissão: Desenvolvedor Web e estagiário de Automação Industrial em Celiware - soluções para traders e investidores.<br>🎲 Hobbies: Jogar vídeo games, assistir Filmes e séries, fazer academia e outros.</h4>
+<h4 align="left">Idade: 20 anos,<br>💏 Estado civil: solteiro😔,<br>📚 Escolaridade: Ensino Médio + técnico em informática em Escola Professor Luiz Rosa. Atualmente cursando Sistemas embarcados em Fatec Jundiaí (previsão de término para dezembro de 2026).<br>🖥 Profissão: estagiário de Automação Industrial em Celiware Automação<br>🎲 Hobbies: Jogar vídeo games, assistir Filmes e séries e outros.</h4>
 
 ###
 
